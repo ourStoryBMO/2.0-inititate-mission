@@ -1,1 +1,3 @@
-# LP0_ourSource
+```
+$ oSFw initiate-purpose ourStory-bMO
+```
