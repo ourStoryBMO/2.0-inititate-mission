@@ -1,3 +1,3 @@
 ```
-$ oSFw initiate-purpose ourStory-bMO
+$ oSFw initiate-mission ourStory-bMO
 ```
